@@ -3,3 +3,4 @@ pandas
 altair
 numpy
 unidecode
+plotly.express
